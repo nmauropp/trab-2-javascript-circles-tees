@@ -1,0 +1,58 @@
+            .circle {
+		background-color: red;
+                width: 130px;
+                height: 130px;
+                border-radius: 50%;
+                float: left;
+                margin-right: 20px;
+		margin-top: 20px;
+		margin-bottom: 10px;
+            }
+		.circle-blue {
+		background-color: blue;
+                width: 130px;
+                height: 130px;
+                border-radius: 50%;
+                float: left;
+                margin-right: 20px;
+		margin-top: 20px;
+		margin-bottom: 10px;
+            }
+		.circle-yellow {
+		background-color: yellow;
+                width: 130px;
+                height: 130px;
+                border-radius: 50%;
+                float: left;
+                margin-right: 20px;
+		margin-top: 20px;
+		margin-bottom: 10px;
+            }
+            .grupoBotao {
+                margin-left: 40%;
+                margin-top: 2%;
+            }
+            .botao {
+                padding: 7px;
+                border: 1px;
+                border-radius: 4px;
+                cursor: pointer;
+                display: inline-block;
+                text-align: center;
+                justify-content: center;    
+                margin-right: 10px;
+            }
+            #red-circle {
+                background-color: red;
+		width: 130px;
+                height: 130px;
+                border-radius: 50%;
+                float: left;
+                margin-right: 50px;
+            }
+            #blue-circle {
+                background-color: blue;
+            }
+            #yellow-circle {
+                background-color: yellow;
+            }
